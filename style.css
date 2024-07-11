@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box1 {
+  height: 100vh;
+  background-color: #f3f3f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box2 {
+  width: 90%;
+  height: 80%;
+  background-color: #fe4e4e;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box3 {
+  width: 80%;
+  height: 80%;
+  background-image: url(ga-how-mft-solves-issues-with-email-attachments-850x330.png);
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+}
+p {
+  position: absolute;
+  top: 62%;
+  left: 50%;
+  color: white;
+  font-size: 35px;
+}
